@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const usernameDisplay = document.getElementById("username");
   
     if (name && usernameDisplay) {
-      usernameDisplay.textContent = `Thank you for joining, ${name}!. We are checking your request`;
+      usernameDisplay.textContent = `Gracias por reegistrarte, ${name}!. Checaremos en corto tu solicitud`;
     }
     else{
         alert("Name not detected");
