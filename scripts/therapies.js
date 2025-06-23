@@ -1,26 +1,22 @@
 export const therapyTypes = [
     {
-      name: "Cognitive Behavioral Therapy (CBT)",
-      description: "Focuses on identifying and changing negative thought patterns and behaviors."
+      name: "Terapia individual",
+      description: "Apoyo especializado en temas como ansiedad, depresión, estrés, autoestima, duelos, conflictos familiares, entre otros."
     },
     {
-      name: "Dialectical Behavior Therapy (DBT)",
-      description: "Helps people manage emotions, especially useful for borderline personality disorder and emotional dysregulation."
+      name: "Terapia para adolescentes",
+      description: "Espacio seguro donde los jóvenes pueden expresar sus emociones y trabajar en su desarrollo emocional, académico y social."
     },
     {
-      name: "Psychodynamic Therapy",
-      description: "Explores unconscious patterns rooted in childhood to understand current behavior and emotions."
+      name: "Terapia infantil",
+      description: "Atención psicológica enfocada en el juego y técnicas especializadas para ayudar a los más pequeños a comprender y gestionar sus emociones."
     },
     {
-      name: "Humanistic Therapy",
-      description: "Emphasizes personal growth, self-awareness, and the individual's capacity for self-healing."
+      name: "Terapia de pareja",
+      description: "Un espacio para mejorar la comunicación, resolver conflictos y fortalecer vínculos afectivos."
     },
     {
-      name: "Mindfulness-Based Therapy",
-      description: "Combines traditional therapy with mindfulness practices to reduce stress and increase awareness."
-    },
-    {
-      name: "Family Therapy",
-      description: "Involves family members in therapy to improve communication and resolve conflicts."
+      name: "Terapia familiar",
+      description: "Sesiones enfocadas en mejorar la dinámica familiar, fortalecer la comunicación y resolver conflictos que afectan la convivencia."
     }
-  ];
+];
