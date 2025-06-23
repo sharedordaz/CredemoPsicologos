@@ -13,7 +13,8 @@ document.addEventListener("DOMContentLoaded", () => {
             <nav class="navbar" id="navbar">
                 <a href="index.html">Inicio</a>
                 <a href="appointment.html">Haz una cita</a>
-                <a href="our_terapies.html">Terapias</a>
+                <a href="our_terapies.html">Tipos de terapias</a>
+                <a href="TerapiaEnLinea.html">Cita en linea</a>
                 <a href="aboutUs.html">Acerca de nosotros</a>
             </nav>
         `;
