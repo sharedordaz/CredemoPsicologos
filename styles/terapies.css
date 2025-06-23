@@ -1,3 +1,11 @@
+.Upper-main{
+    background: linear-gradient(135deg, #f0f4f8, #e0e7ef);
+    padding: 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
 .therapy-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
