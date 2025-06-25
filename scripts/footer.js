@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
             </div>
             <div class="social">
-                <a href="https://www.instagram.com/p/DC7lk4NvNmN/">Instagram<img src="images/social/instagram.webp" alt="Youtube Logo" loading="lazy"> </a>
+                <a href="https://www.instagram.com/credemo.cp/">Instagram<img src="images/social/instagram.webp" alt="Youtube Logo" loading="lazy"> </a>
                 <a href="https://facebook.com/CredemoConsultoriaPsicologica?locale=es_La">Facebook<img src="images/social/facebook.webp" alt="Youtube Logo" loading="lazy"> </a>
                 <a href="tel:+525516906347">Whats App<img src="images/social/WhatsApp.webp" alt="Teléfono Logo" loading="lazy"> </a>
             </div>
